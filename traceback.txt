@@ -1,0 +1,30 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/distribute.rpy", line 1512, in <module>
+  File "game/distribute.rpy", line 1519, in _execute_python_hide
+  File "game/distribute.rpy", line 533, in __init__
+  File "game/distribute.rpy", line 986, in add_windows_files
+IndexError: array index out of range
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "launcher/game/distribute.rpyc", line 1512, in script
+  File "C:\renpy-7.3.5-sdk\renpy\ast.py", line 914, in execute
+    renpy.python.py_exec_bytecode(self.code.bytecode, self.hide, store=self.store)
+  File "C:\renpy-7.3.5-sdk\renpy\python.py", line 2028, in py_exec_bytecode
+    exec bytecode in globals, locals
+  File "game/distribute.rpy", line 1512, in <module>
+  File "game/distribute.rpy", line 1519, in _execute_python_hide
+  File "game/distribute.rpy", line 533, in __init__
+  File "game/distribute.rpy", line 986, in add_windows_files
+  File "change_icon.py", line 313, in change_icons
+  File "change_icon.py", line 268, in load_icon
+  File "change_icon.py", line 47, in u32
+IndexError: array index out of range
+
+Windows-8-6.2.9200
+Ren'Py 7.3.5.606
+Ren'Py Launcher 7.3.5.606
+Sat Jun 12 01:06:45 2021

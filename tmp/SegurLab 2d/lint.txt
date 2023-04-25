@@ -1,0 +1,246 @@
+﻿
+Ren'Py 7.3.5.606 lint report, generated at: Thu Jun 04 19:54:05 2020
+
+game/script.rpy:15 The screen countdown_no_bar has not been given a parameter list.
+This can be fixed by writing 'screen countdown_no_bar():' instead.
+
+game/script.rpy:18 The screen countdown has not been given a parameter list.
+
+game/script.rpy:22 The screen tutorial has not been given a parameter list.
+
+game/script.rpy:26 The screen Azul01 has not been given a parameter list.
+
+game/script.rpy:35 The screen Azul02 has not been given a parameter list.
+
+game/script.rpy:44 The screen Azul03 has not been given a parameter list.
+
+game/script.rpy:53 The screen Azul04 has not been given a parameter list.
+
+game/script.rpy:62 The screen Azul05 has not been given a parameter list.
+
+game/script.rpy:71 The screen Azul06 has not been given a parameter list.
+
+game/script.rpy:80 The screen Azul07 has not been given a parameter list.
+
+game/script.rpy:88 The screen Azul08 has not been given a parameter list.
+
+game/script.rpy:96 The screen Azul09 has not been given a parameter list.
+
+game/script.rpy:105 The screen Azul10 has not been given a parameter list.
+
+game/script.rpy:116 The screen Red01 has not been given a parameter list.
+
+game/script.rpy:125 The screen Red02 has not been given a parameter list.
+
+game/script.rpy:134 The screen Red03 has not been given a parameter list.
+
+game/script.rpy:143 The screen Red04 has not been given a parameter list.
+
+game/script.rpy:152 The screen Red05 has not been given a parameter list.
+
+game/script.rpy:161 The screen Red06 has not been given a parameter list.
+
+game/script.rpy:170 The screen Red07 has not been given a parameter list.
+
+game/script.rpy:178 The screen Red08 has not been given a parameter list.
+
+game/script.rpy:186 The screen Red09 has not been given a parameter list.
+
+game/script.rpy:195 The screen Red10 has not been given a parameter list.
+
+game/script.rpy:206 The screen Verde01 has not been given a parameter list.
+
+game/script.rpy:215 The screen Verde02 has not been given a parameter list.
+
+game/script.rpy:224 The screen Verde03 has not been given a parameter list.
+
+game/script.rpy:233 The screen Verde04 has not been given a parameter list.
+
+game/script.rpy:242 The screen Verde05 has not been given a parameter list.
+
+game/script.rpy:251 The screen Verde06 has not been given a parameter list.
+
+images/SegurLab2D_Cartão_03.fw.png contains non-ASCII characters in its filename.
+(ZIP file distributions can only reliably include ASCII filenames.)
+
+images/SegurLab2D_Cartão_04.fw.png contains non-ASCII characters in its filename.
+
+images/SegurLab2D_Cartão_05.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Azul/SegurLab2D_Cartão Azul_01.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Azul/SegurLab2D_Cartão Azul_02.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Azul/SegurLab2D_Cartão Azul_03.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Azul/SegurLab2D_Cartão Azul_04.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Azul/SegurLab2D_Cartão Azul_05.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Azul/SegurLab2D_Cartão Azul_06.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Azul/SegurLab2D_Cartão Azul_07.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Azul/SegurLab2D_Cartão Azul_08.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Azul/SegurLab2D_Cartão Azul_09.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Azul/SegurLab2D_Cartão Azul_10.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Roxo/SegurLab2D_CartãoRoxo_01.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Roxo/SegurLab2D_CartãoRoxo_02.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Roxo/SegurLab2D_CartãoRoxo_03.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Roxo/SegurLab2D_CartãoRoxo_04.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Verde/SegurLab2D_Cartão Verde_02.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Verde/SegurLab2D_Cartão Verde_04.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Verde/SegurLab2D_Cartão Verde_06.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Verde/SegurLab2D_CartãoVerde_01.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Verde/SegurLab2D_CartãoVerde_03.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Verde/SegurLab2D_CartãoVerde_05.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Vermelho/SegurLab2D_Cartão Vermelho_01.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Vermelho/SegurLab2D_Cartão Vermelho_02.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Vermelho/SegurLab2D_Cartão Vermelho_03.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Vermelho/SegurLab2D_Cartão Vermelho_04.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Vermelho/SegurLab2D_Cartão Vermelho_05.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Vermelho/SegurLab2D_Cartão Vermelho_06.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Vermelho/SegurLab2D_Cartão Vermelho_07.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Vermelho/SegurLab2D_Cartão Vermelho_08.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Vermelho/SegurLab2D_Cartão Vermelho_09.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartoes/Cartão Vermelho/SegurLab2D_Cartão Vermelho_10.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Azul/SegurLab2D_Cartão Azul_01.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Azul/SegurLab2D_Cartão Azul_02.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Azul/SegurLab2D_Cartão Azul_03.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Azul/SegurLab2D_Cartão Azul_04.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Azul/SegurLab2D_Cartão Azul_05.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Azul/SegurLab2D_Cartão Azul_06.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Azul/SegurLab2D_Cartão Azul_07.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Azul/SegurLab2D_Cartão Azul_08.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Azul/SegurLab2D_Cartão Azul_09.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Azul/SegurLab2D_Cartão Azul_10.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Roxo/SegurLab2D_CartãoRoxo_01.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Roxo/SegurLab2D_CartãoRoxo_02.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Roxo/SegurLab2D_CartãoRoxo_03.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Roxo/SegurLab2D_CartãoRoxo_04.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Verde/SegurLab2D_Cartão Verde_02.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Verde/SegurLab2D_Cartão Verde_04.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Verde/SegurLab2D_Cartão Verde_06.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Verde/SegurLab2D_CartãoVerde_01.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Verde/SegurLab2D_CartãoVerde_03.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Verde/SegurLab2D_CartãoVerde_05.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Vermelho/SegurLab2D_Cartão Vermelho_01.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Vermelho/SegurLab2D_Cartão Vermelho_02.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Vermelho/SegurLab2D_Cartão Vermelho_03.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Vermelho/SegurLab2D_Cartão Vermelho_04.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Vermelho/SegurLab2D_Cartão Vermelho_05.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Vermelho/SegurLab2D_Cartão Vermelho_06.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Vermelho/SegurLab2D_Cartão Vermelho_07.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Vermelho/SegurLab2D_Cartão Vermelho_08.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Vermelho/SegurLab2D_Cartão Vermelho_09.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/Cartão Vermelho/SegurLab2D_Cartão Vermelho_10.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab 2d Cartões.rar contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Apresentação.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão Azul_01.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão Azul_02.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão Azul_03.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão Azul_04.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão Azul_05.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão Azul_06.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão Azul_07.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão Azul_08.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão Azul_09.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão Azul_10.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão Vermelho_01.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão Vermelho_02.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão2.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão3.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_CartãoRoxo_01.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão_01.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão_02.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão_03.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão_04.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão_05.fw.png contains non-ASCII characters in its filename.
+
+SegurLab 2d Image Backups/SegurLab2D_Cartão_Padrão.fw.png contains non-ASCII characters in its filename.
+
+
+Statistics:
+
+The game contains 109 dialogue blocks, containing 284 words and 1,561
+characters, for an average of 2.6 words and 14 characters per block.
+
+The game contains 1 menus, 0 images, and 52 screens.
+
+
+Lint is not a substitute for thorough testing. Remember to update Ren'Py
+before releasing. New releases fix bugs and improve compatibility.

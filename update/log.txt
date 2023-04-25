@@ -1,0 +1,4 @@
+running ['C:\\renpy-7.3.5-sdk\\lib\\windows-i686\\zsync.exe', '-o', 'C:\\renpy-7.3.5-sdk\\update\\rapt.update.new', '-k', 'C:\\renpy-7.3.5-sdk\\update\\rapt.zsync', '-i', 'C:\\renpy-7.3.5-sdk\\update\\rapt.update', 'http://update.renpy.org/7.3.5/renpy-7.3.5-rapt.zsync']
+partfile does not exist
+partfile does not exist
+partfile does not exist
