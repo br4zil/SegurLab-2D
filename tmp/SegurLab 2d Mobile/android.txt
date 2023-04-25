@@ -1,0 +1,95 @@
+Ren'Py 7.3.5.606
+
+Updating project.
+
+Creating assets directory.
+
+Packaging internal data.
+
+I'm using Gradle to build the package.
+Picked up _JAVA_OPTIONS: -Xmx1g
+Starting a Gradle Daemon, 1 stopped Daemon could not be reused, use --status for details
+:app:preBuild UP-TO-DATE
+:renpyandroid:preBuild UP-TO-DATE
+:renpyandroid:preReleaseBuild UP-TO-DATE
+:renpyandroid:checkReleaseManifest UP-TO-DATE
+:renpyandroid:processReleaseManifest UP-TO-DATE
+:app:preReleaseBuild UP-TO-DATE
+:renpyandroid:compileReleaseAidl UP-TO-DATE
+:app:compileReleaseAidl UP-TO-DATE
+:renpyandroid:packageReleaseRenderscript NO-SOURCE
+:app:compileReleaseRenderscript UP-TO-DATE
+:app:checkReleaseManifest UP-TO-DATE
+:app:generateReleaseBuildConfig UP-TO-DATE
+:app:prepareLintJar UP-TO-DATE
+:app:mainApkListPersistenceRelease UP-TO-DATE
+:app:generateReleaseResValues UP-TO-DATE
+:app:generateReleaseResources UP-TO-DATE
+:renpyandroid:compileReleaseRenderscript UP-TO-DATE
+:renpyandroid:generateReleaseResValues UP-TO-DATE
+:renpyandroid:generateReleaseResources UP-TO-DATE
+:renpyandroid:packageReleaseResources UP-TO-DATE
+:app:mergeReleaseResources UP-TO-DATE
+:app:createReleaseCompatibleScreenManifests UP-TO-DATE
+:app:processReleaseManifest UP-TO-DATE
+:app:splitsDiscoveryTaskRelease UP-TO-DATE
+:renpyandroid:platformAttrExtractor UP-TO-DATE
+:renpyandroid:generateReleaseRFile UP-TO-DATE
+:app:processReleaseResources UP-TO-DATE
+:app:generateReleaseSources UP-TO-DATE
+:renpyandroid:generateReleaseBuildConfig UP-TO-DATE
+:renpyandroid:prepareLintJar UP-TO-DATE
+:renpyandroid:generateReleaseSources UP-TO-DATE
+:renpyandroid:javaPreCompileRelease UP-TO-DATE
+:renpyandroid:compileReleaseJavaWithJavac UP-TO-DATE
+:renpyandroid:processReleaseJavaRes NO-SOURCE
+:renpyandroid:transformClassesAndResourcesWithPrepareIntermediateJarsForRelease UP-TO-DATE
+:app:javaPreCompileRelease UP-TO-DATE
+:app:compileReleaseJavaWithJavac UP-TO-DATE
+:app:compileReleaseNdk NO-SOURCE
+:app:compileReleaseSources UP-TO-DATE
+:app:lintVitalRelease
+:app:mergeReleaseShaders UP-TO-DATE
+:app:compileReleaseShaders UP-TO-DATE
+:app:generateReleaseAssets UP-TO-DATE
+:renpyandroid:mergeReleaseShaders UP-TO-DATE
+:renpyandroid:compileReleaseShaders UP-TO-DATE
+:renpyandroid:generateReleaseAssets UP-TO-DATE
+:renpyandroid:packageReleaseAssets UP-TO-DATE
+:app:mergeReleaseAssets
+:app:transformClassesWithDexBuilderForRelease UP-TO-DATE
+:app:transformDexArchiveWithExternalLibsDexMergerForRelease UP-TO-DATE
+:app:transformDexArchiveWithDexMergerForRelease UP-TO-DATE
+:app:mergeReleaseJniLibFolders UP-TO-DATE
+:renpyandroid:compileReleaseNdk NO-SOURCE
+:renpyandroid:mergeReleaseJniLibFolders UP-TO-DATE
+:renpyandroid:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:renpyandroid:transformNativeLibsWithIntermediateJniLibsForRelease UP-TO-DATE
+:app:transformNativeLibsWithMergeJniLibsForRelease UP-TO-DATE
+:app:processReleaseJavaRes NO-SOURCE
+:app:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:app:validateSigningRelease UP-TO-DATE
+:app:packageRelease
+:app:assembleRelease
+:renpyandroid:extractReleaseAnnotations UP-TO-DATE
+:renpyandroid:mergeReleaseConsumerProguardFiles UP-TO-DATE
+:renpyandroid:transformResourcesWithMergeJavaResForRelease UP-TO-DATE
+:renpyandroid:transformClassesAndResourcesWithSyncLibJarsForRelease UP-TO-DATE
+:renpyandroid:transformNativeLibsWithSyncJniLibsForRelease UP-TO-DATE
+:renpyandroid:bundleRelease UP-TO-DATE
+:renpyandroid:compileReleaseSources UP-TO-DATE
+:renpyandroid:mergeReleaseResources UP-TO-DATE
+:renpyandroid:verifyReleaseResources UP-TO-DATE
+:renpyandroid:assembleRelease UP-TO-DATE
+
+BUILD SUCCESSFUL in 34s
+54 actionable tasks: 3 executed, 51 up-to-date
+
+
+
+
+The build seems to have succeeded.
+
+The arm64-v8a version works on newer Android devices, the armeabi-v7a version works on older devices, and the x86_64 version works on the simulator and chromebooks.
+
+The universal version works everywhere but is larger.

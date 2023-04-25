@@ -1,0 +1,9 @@
+Ren'Py 7.3.5.606
+
+Retrieving logcat information from device.
+* daemon not running; starting now at tcp:5037
+* daemon started successfully
+- waiting for device -
+
+
+
