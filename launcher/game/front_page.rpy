@@ -162,9 +162,6 @@ screen front_page_project_list:
 
             null height 12
 
-        textbutton _("Tutorial") action project.SelectTutorial() style "l_list" alt _("Select project [text].")
-        textbutton _("The Question") action project.Select("the_question") style "l_list" alt _("Select project [text].")
-
 
 # This is used for the right side of the screen, which is where the project-specific
 # buttons are.
