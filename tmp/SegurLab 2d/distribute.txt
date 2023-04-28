@@ -428,12 +428,11 @@ icon.ico matches icon.ico (None).
 log.txt matches log.txt (None).
 project.json matches project.json (None).
 traceback.txt matches traceback.txt (None).
+.git/ matches **/.* (None).
 config.txt doesn't match anything.
 config.txt matches None (None).
 doc/ doesn't match anything.
 doc/ matches None (None).
-Editor de Cartas/ doesn't match anything.
-Editor de Cartas/ matches None (None).
 gui/ doesn't match anything.
 gui/ matches None (None).
 launcher/ doesn't match anything.
@@ -1232,12 +1231,8 @@ master.py doesn't match anything.
 master.py matches None (None).
 module/ doesn't match anything.
 module/ matches None (None).
-Novo Documento de Texto.py doesn't match anything.
-Novo Documento de Texto.py matches None (None).
-Novo Documento de Texto.txt doesn't match anything.
-Novo Documento de Texto.txt matches None (None).
-rapt/ doesn't match anything.
-rapt/ matches None (None).
+README.md doesn't match anything.
+README.md matches None (None).
 renpy/ matches renpy/ ([u'all']).
 renpy/add_from.py matches renpy/**.py ([u'renpy']).
 renpy/add_from.pyo matches renpy/** ([u'all']).
@@ -1713,21 +1708,13 @@ SegurLab 2d Image Backups/ doesn't match anything.
 SegurLab 2d Image Backups/ matches None (None).
 SegurLab 2d Mobile/ doesn't match anything.
 SegurLab 2d Mobile/ matches None (None).
-SegurLab2d-Alpha1-dists OLD/ doesn't match anything.
-SegurLab2d-Alpha1-dists OLD/ matches None (None).
 SegurLab2D-dists/ doesn't match anything.
 SegurLab2D-dists/ matches None (None).
-The_Decision-7.0-pc/ doesn't match anything.
-The_Decision-7.0-pc/ matches None (None).
-the_question/ doesn't match anything.
-the_question/ matches None (None).
 tmp/ doesn't match anything.
 tmp/ matches None (None).
 traceback.txt doesn't match anything.
 traceback.txt matches None (None).
 ttest.py doesn't match anything.
 ttest.py matches None (None).
-tutorial/ doesn't match anything.
-tutorial/ matches None (None).
 update/ doesn't match anything.
 update/ matches None (None).
